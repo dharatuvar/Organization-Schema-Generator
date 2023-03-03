@@ -1,6 +1,6 @@
 # Organization Schema Generator
 
-Meetanshi’s ***[Organization Schema Generator](https://meetanshi.com/organization-schema-generator)*** is a tool that allows you to create structured data markup for your website that specifies information about your organization. This markup is known as schema.org vocabulary and is a standardized format for structured data that can be understood by search engines and other web applications.
+Meetanshi’s ***[Organization Schema Generator]https://meetanshi.com/schema-generator/organization)*** is a tool that allows you to create structured data markup for your website that specifies information about your organization. This markup is known as schema.org vocabulary and is a standardized format for structured data that can be understood by search engines and other web applications.
 
 The schema markup for an organization provides search engines with additional context about your business, including your company name, logo, address, phone number, and other details that can help people find your business more easily. By using an ***Organization Schema Generator***, you can easily create this markup and add it to your website's HTML.
 
@@ -16,5 +16,5 @@ The schema markup for an organization provides search engines with additional co
 
 In summary, an Organization Schema Generator is a valuable tool that can help improve the visibility of your business in search results and provide a more engaging user experience. By creating structured data markup for your website, you can help users find the information they need and establish trust and credibility with potential customers.
 
-For more information , visit :  ***[https://meetanshi.com/organization-schema-generator](https://meetanshi.com/organization-schema-generator)***
+For more information , visit :  ***[https://meetanshi.com/schema-generator/organization](https://meetanshi.com/schema-generator/organization)***
 
